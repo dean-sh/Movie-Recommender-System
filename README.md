@@ -8,3 +8,5 @@ The dataset includes 20M ratings on 27K movies (from early 20's century to 2016)
 
 
 [Notebook](https://colab.research.google.com/github/dean-sh/Movie-Ratings-Collaborating-Filltering/blob/master/Final%20Model%20-%20Funk%20SVD.ipynb)  [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/dean-sh/Movie-Ratings-Collaborating-Filltering/blob/master/Final%20Model%20-%20Funk%20SVD.ipynb)
+
+[Project Presentation](https://docs.google.com/viewer?url=https://github.com/dean-sh/Movie-Recommender-System/raw/master/Assets/MovieLens%20Recommendations%20-%20Dean%20Shabi%20and%20Dedi%20Kovatch.pdf)
